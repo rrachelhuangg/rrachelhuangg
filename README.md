@@ -1,5 +1,5 @@
 ## about me
-hi! my name is rachel and i study comp sci and applied math at william & mary. i like building things. 
+hi! my name is rachel and i study comp sci and applied math at william & mary.
  
 ## tech stack
 languages:\
