@@ -4,8 +4,8 @@ hi! my name is rachel and i study comp sci and applied math at william & mary.
 ## tech stack
 languages:\
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)\
-apps:\
-![Docker](https://img.shields.io/badge/docker-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Static Badge](https://img.shields.io/badge/langchain-blue)\
+apps/data:\
+![Docker](https://img.shields.io/badge/docker-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Static Badge](https://img.shields.io/badge/langchain-blue) ![Static Badge](https://img.shields.io/badge/kestra-purple)\
 databases:\
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Static Badge](https://img.shields.io/badge/qdrant-red)\
 frontend/markup:\
